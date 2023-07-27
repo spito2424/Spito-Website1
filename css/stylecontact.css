@@ -1,0 +1,102 @@
+.fcf-h1{text-align: center;
+    font-family: 'Poppins';
+}
+input{
+    width: 130%;
+    height: 50px;
+    background-color:rgb(177, 172, 180) ;
+    border: none;
+    outline: none;
+    border: 2px solid #000000af;
+    border-radius: 40px;
+    font-size: 16px;
+    color: #000000;
+    padding-left: 20px;
+    
+    
+    
+   
+    
+}
+textarea{
+    width: 130%;
+    height: 150px;
+    background-color:rgb(177, 172, 180) ;
+    border: none;
+    outline: none;
+    border: 2px solid #000000af;
+    border-radius: 40px;
+    font-size: 16px;
+    color: #000000;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+textarea::placeholder{
+    color: #000000;
+    text-align: center;
+    font-family: 'Poppins';
+    
+
+}
+input::placeholder{
+    color: #000000;
+    text-align: center;
+    font-family: 'Poppins';
+    
+
+}
+.fcf-form-group1{
+
+    padding-bottom: 25px;
+}
+.fcf-form-group2{
+
+    padding-bottom: 25px;
+}
+.fcf-form-group3{
+
+    padding-bottom: 25px;
+}
+.btn{
+    width: 50%;
+    height: 50px;
+    background-color:blueviolet ;
+    border: none;
+    outline: none;
+    border: 2px solid #000000af;
+    border-radius: 40px;
+    font-size: 16px;
+    color: #000000;
+    
+    
+    
+}
+.btn2{
+    width: 150px;
+    height: 50px;
+    background-color:rgb(255, 255, 255) ;
+    border: none;
+    outline: none;
+    border: 2px solid #000000af;
+    border-radius: 40px;
+    font-size: 16px;
+    color: #000000;
+}
+.sii{
+    padding-left: 40px;
+    padding-top: 30px;
+}
+.sii button:hover{
+    scale: 1.07;
+    background-color:rgb(177, 172, 180) ;
+}
+
+
+.fcf-form-group4{
+   display: flex;
+   justify-content: center;
+}
+.result{
+
+    text-align: center;
+}
